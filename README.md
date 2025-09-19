@@ -1,60 +1,53 @@
-<!-- Header Section -->
-<h1 align="center">Hello 👋, I am Jaspreet</h1>
-<h3 align="center">Web Designer & Front-End Developer | Crafting responsive, user-friendly, and visually engaging websites</h3>
+<!-- 🌟 Header Section -->
+<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h3 align="center">Creative Web Designer & Front-End Developer | Turning ideas into interactive experiences</h3>
 
 <p align="center">
-  <a href="https://www" target="blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www" target="blank">
+  <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:" target="blank">
+  <a href="mailto:your@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-I am a detail-oriented **Web Designer & Front-End Developer** with a passion for building visually appealing, responsive, and user-friendly websites. My work blends **design creativity, clean code, and interactive animations** to deliver seamless and engaging digital experiences. I enjoy bringing static designs to life through motion and ensuring every project is both functional and aesthetically refined.
+I’m a passionate **Web Designer & Front-End Developer** who thrives on crafting **engaging, responsive, and interactive websites**.  
+I blend **design creativity, pixel-perfect coding, and smooth animations** to bring digital ideas to life.
 
-- 🎨 **Core Skills:** HTML5, CSS3, Tailwind CSS, JavaScript, jQuery, Bootstrap, WordPress, BigCommerce, Shopify, Responsive Design, Figma
-- 🌀 **Animation & Interactivity:** GSAP, Framer Motion, Three.js (basic 3D), CSS Animations & Transitions, Scroll-based animations
-- 💻 **Development Knowledge:** React (Front-End), PHP, MySQL, MongoDB, Laravel, Node.js, Shopify Development
-- 🚀 **Currently Learning:** Advanced JavaScript frameworks (Next.js, Vue) & modern UI/UX best practices
-- 👯 **Collaboration:** Open to working on WordPress, React, Shopify, and creative front-end projects with strong animation/interaction needs
-- 💼 **Professional Experience:** Web Designer at _Tech Prastish Software Solution Pvt Ltd_
-- 🌐 **Interests:** UI/UX design, interactive web experiences, eCommerce solutions, performance optimization, and exploring cutting-edge front-end technologies
+💡 My goal: **Transform static designs into immersive web experiences** with modern tools, motion, and clean UI/UX.
+
+- 🎨 **Core Design Skills:** UI/UX Design, Responsive Design, Wireframing, Prototyping
+- 🌀 **Animations:** GSAP, Framer Motion, CSS Animations, Three.js
+- 💻 **Frontend Expertise:** HTML5, CSS3, Tailwind CSS, JavaScript, React, jQuery, Bootstrap
+- 🛒 **CMS & eCommerce:** WordPress, Shopify, BigCommerce
+- ⚙️ **Backend Knowledge:** PHP, MySQL, Laravel, Node.js, MongoDB
+- 🌱 **Learning:** Next.js, Vue, TypeScript & advanced UX research methods
+- 💼 **Experience:** Web Designer at _Tech Prastish Software Solution Pvt Ltd_
+- 🚀 **Interests:** Interactive UI, animation-rich experiences, eCommerce design systems
 
 ---
 
-## 💻 Skills
-
-### 🌐 Languages & Frameworks
+## 🎨 Design & Creativity First
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-36B7F0?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FADC00?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0865A7?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7310F5?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/WordPress-1E8CBE?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigCommerce-1E1E1E?style=for-the-badge&logo=bigcommerce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4FAA3D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2E1F?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI/UX_Design-FF3366?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </div>
 
 ---
 
-### 🌀 Animation & Interactivity
+## 🌀 Animations & Interactivity
 
 <div align="center">
   <img src="https://img.shields.io/badge/GSAP-9CE14F?style=for-the-badge&logo=greensock&logoColor=black"/>
@@ -65,21 +58,43 @@ I am a detail-oriented **Web Designer & Front-End Developer** with a passion for
 
 ---
 
-### 🎨 Design Skills
+## 💻 Front-End Development
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI/UX_Design-FF3366?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireframing-111111?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-36B7F0?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FADC00?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0865A7?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7310F5?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
 ---
 
-### 🛠️ Tools & Platforms
+## 🛒 CMS & E-Commerce
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WordPress-1E8CBE?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigCommerce-1E1E1E?style=for-the-badge&logo=bigcommerce&logoColor=white"/>
+</div>
+
+---
+
+## ⚙️ Backend & Databases
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2E1F?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4FAA3D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+---
+
+## 🛠️ Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F14C28?style=for-the-badge&logo=git&logoColor=white"/>
@@ -89,7 +104,7 @@ I am a detail-oriented **Web Designer & Front-End Developer** with a passion for
 
 ---
 
-### 📚 Learning / Exploring
+## 📚 Currently Exploring
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
