@@ -1,5 +1,3 @@
-# yourCode-jd
-
 <!-- Header Section -->
 <h1 align="center">Hello 👋, I am Jaspreet</h1>
 <h3 align="center">Web Designer & Front-End Developer | Crafting responsive, user-friendly, and visually engaging websites</h3>
