@@ -138,7 +138,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="snake.yml" alt="snake animation"/>
 </p>
 
 ---
