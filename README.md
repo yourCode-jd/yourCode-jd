@@ -5,10 +5,10 @@
 
 <!-- 👋 Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Creative+Web+Designer;Front-End+Developer;UI%2FUX+Enthusiast;Turning+Ideas+into+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Creative+Web+Designer;Front-End+Developer;UI%2FUX+Enthusiast;Turning+Ideas+into+Experiences" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm Jaspreet</h1>
 <h3 align="center">Creative Web Designer & Front-End Developer | Animation Lover ✨</h3>
 
 <!-- 🔗 Social & Portfolio Links -->
