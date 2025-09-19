@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # runs every day at midnight
-  workflow_dispatch: # allows manual trigger
+  workflow_dispatch: # manual trigger if you want
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
           github_user_name: yourCode-jd
           outputs: dist/snake.svg
 
-      - name: Upload snake.svg to the output branch
+      - name: Upload snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

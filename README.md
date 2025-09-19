@@ -137,8 +137,9 @@
 
 ## 🐍 Contribution Snake
 
+<!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
-  <img src="snake.yml" alt="snake animation"/>
+  <img src="https://github.com/yourCode-jd/yourCode-jd/blob/output/snake.svg" alt="GitHub Snake Animation"/>
 </p>
 
 ---
