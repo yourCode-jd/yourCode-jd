@@ -1,5 +1,5 @@
 <!-- 🌟 Header Section -->
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm Jaspreet</h1>
 <h3 align="center">Creative Web Designer & Front-End Developer | Turning ideas into interactive experiences</h3>
 
 <p align="center">
