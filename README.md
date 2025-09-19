@@ -34,7 +34,7 @@ I am a detail-oriented **Web Designer & Front-End Developer** with a passion for
 
 ### 🌐 Languages & Frameworks
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-36B7F0?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -56,7 +56,7 @@ I am a detail-oriented **Web Designer & Front-End Developer** with a passion for
 
 ### 🌀 Animation & Interactivity
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/GSAP-9CE14F?style=for-the-badge&logo=greensock&logoColor=black"/>
   <img src="https://img.shields.io/badge/Framer_Motion-007BFF?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=three.js&logoColor=white"/>
@@ -67,7 +67,7 @@ I am a detail-oriented **Web Designer & Front-End Developer** with a passion for
 
 ### 🎨 Design Skills
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -81,7 +81,7 @@ I am a detail-oriented **Web Designer & Front-End Developer** with a passion for
 
 ### 🛠️ Tools & Platforms
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F14C28?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=black"/>
@@ -91,7 +91,7 @@ I am a detail-oriented **Web Designer & Front-End Developer** with a passion for
 
 ### 📚 Learning / Exploring
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
