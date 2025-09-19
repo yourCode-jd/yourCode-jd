@@ -135,9 +135,10 @@
 
 ---
 
+<!--
 ## 🐍 Contribution Snake
 
-<!-- 🐍 GitHub Contribution Snake -->
+🐍 GitHub Contribution Snake -->
 <!-- <p align="center">
   <img src="https://github.com/yourCode-jd/yourCode-jd/blob/output/snake.svg" alt="GitHub Snake Animation"/>
 </p> -->
@@ -152,8 +153,9 @@
 
 ---
 
+<!--
 ## 🎶 Now Playing
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
 </p> -->
