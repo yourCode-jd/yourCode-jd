@@ -129,18 +129,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical"/>
-</p>
+</p> -->
 
 ---
 
 ## 🐍 Contribution Snake
 
 <!-- 🐍 GitHub Contribution Snake -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/yourCode-jd/yourCode-jd/blob/output/snake.svg" alt="GitHub Snake Animation"/>
-</p>
+</p> -->
 
 ---
 
@@ -154,6 +154,6 @@
 
 ## 🎶 Now Playing
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
-</p>
+</p> -->
