@@ -1,6 +1,6 @@
 <!-- 🌟 Custom Banner -->
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%"/>
+  <img src="banner111.png" alt="Banner" width="100%"/>
 </p>
 
 <!-- 👋 Typing Intro -->
