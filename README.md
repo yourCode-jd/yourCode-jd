@@ -16,7 +16,7 @@
   <a href="https://yourcode-jd.github.io/jdSpace/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-FF0080?style=for-the-badge&logo=About.me&logoColor=white&colorA=7928CA&colorB=FF0080" alt="Portfolio"/>
   </a>
-  <a href="https://codepen.io/yourusername" target="_blank">
+  <a href="https://codepen.io/Jaspreet-Tpss/pens/public" target="_blank">
   <img src="https://img.shields.io/badge/🖋️ CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&colorA=0F0F0F&colorB=FF4B2B" alt="CodePen"/>
 </a>
   <a href="https://instagram.com/yourusername" target="_blank">
