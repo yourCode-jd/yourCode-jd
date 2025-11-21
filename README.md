@@ -19,6 +19,9 @@
   <a href="https://codepen.io/yourusername" target="_blank">
   <img src="https://img.shields.io/badge/🖋️ CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&colorA=0F0F0F&colorB=FF4B2B" alt="CodePen"/>
 </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=F27121&colorB=E94057" alt="Instagram"/>
+  </a>
   <a href="mailto:pxfixerjd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📩 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=FF416C&colorB=FF4B2B" alt="Email"/>
   </a>
