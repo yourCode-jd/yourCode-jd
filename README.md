@@ -13,13 +13,13 @@
 
 <!-- 🔗 Social & Portfolio Links -->
 <p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://yourcode-jd.github.io/jdSpace/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-FF0080?style=for-the-badge&logo=About.me&logoColor=white&colorA=7928CA&colorB=FF0080" alt="Portfolio"/>
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=F27121&colorB=E94057" alt="Instagram"/>
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:pxfixerjd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📩 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=FF416C&colorB=FF4B2B" alt="Email"/>
   </a>
 </p>
