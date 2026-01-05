@@ -159,7 +159,6 @@
 <!--
 
 ## 🎶 Now Playing
-
  <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
 </p> -->
