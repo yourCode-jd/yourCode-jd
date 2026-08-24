@@ -57,7 +57,7 @@ systems into responsive, component-based interfaces that ship.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
@@ -102,10 +102,7 @@ systems into responsive, component-based interfaces that ship.
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourCode-jd&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourCode-jd&theme=radical" height="165"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourCode-jd&show_icons=true&theme=radical&cache_seconds=86400" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourCode-jd&theme=radical&cache_seconds=86400" height="165"/> </p>
 
 ---
 
