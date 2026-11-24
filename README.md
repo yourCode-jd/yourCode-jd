@@ -1,6 +1,5 @@
-<img width="2508" height="627" alt="banner" src="https://github.com/user-attachments/assets/fa24254c-5462-4431-b314-9af6f6351af6" />
 <p align="center">
-  <img src="./banner.png" alt="Jaspreet Singh, Web Designer and Frontend Developer" width="100%">
+ <img width="2508" height="627" alt="banner" src="https://github.com/user-attachments/assets/fa24254c-5462-4431-b314-9af6f6351af6" />
 </p>
 
 <h1 align="center">Jaspreet Singh</h1>
